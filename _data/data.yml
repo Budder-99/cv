@@ -14,8 +14,8 @@ sidebar:
 
   # Sidebar links
   email: budder.uk@proton.me
-  timezone: GMT # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  timezone: Europe/UnitedKingdom # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  website: http://budder.uk # Include the full website URL, including "http://" or "https://".
   github: Budder-99
 
   interests:
@@ -38,37 +38,12 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
-education:
-  title: Education
-  info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    A hands-on and adaptable IT enthusiast with a diverse background spanning technical support, manufacturing, and self-hosted infrastructure. 
+    I bring experience from roles at GKN Aerospace and other varied positions, 
+    complemented by a strong personal passion for technology and problem-solving. 
+    Through my self-managed homelab, I’ve gained practical skills in server management, networking, and automation, 
+    constantly exploring new tools and platforms. Now focused on learning as much as I can,
+    to deepen my knowledge and contribute to dynamic environments where I can grow, support others, and continue learning.
 
 experiences:
   title: Experiences
