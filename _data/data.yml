@@ -60,14 +60,14 @@ experiences:
      Supporting a windows and office 365 enviroment.
      
      Skills;
-     Active Directory (managing users, groups and machines)
-     SCCM (software and update deployment)
-     VoIP support
-     Azure cloud / Entra ID
-     Various legacy Unix and Linux support
-     Remote tools - RDP, RCviewer, Dameware
-     Manufacturing support for various modern and legacy systems
-     Powershell scripting for automation
+       - Active Directory (managing users, groups and machines)
+       - SCCM (software and update deployment)
+       - VoIP support
+       - Azure cloud / Entra ID
+       - Various legacy Unix and Linux support
+       - Remote tools - RDP, RCviewer, Dameware
+       - Manufacturing support for various modern and legacy systems
+       - Powershell scripting for automation
      
   - role: Senior Software Engineer
     time: 2014 - 2015
