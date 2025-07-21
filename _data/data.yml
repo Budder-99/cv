@@ -9,7 +9,8 @@ sidebar:
 
   # Profile information
   name: Owen Budd
-  tagline: IT Technician
+  tagline: IT Technician 
+           and aspiring infrastructure technician
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -36,7 +37,7 @@ sidebar:
 
 
 career-profile:
-  title: Career Profile
+  title: About me
   summary: |
     A hands-on and adaptable IT enthusiast with a diverse background spanning technical support, manufacturing, and self-hosted infrastructure. 
     I bring experience from roles at GKN Aerospace and other varied positions, 
@@ -48,21 +49,26 @@ career-profile:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: IT Service Desk Technician
+    time: 2022 - 2025
+    company: GKN Aerospace - Isle of Wight
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+     Supporting GKN Aerospace as a level 1 and 2 service desk for over 1000 users
+     throughout the UK, adhearing to strict SLA's to maintain customer response times
+     and find prompt resolutions. 
+     Managing a helpdesk ticketing system with Xurrent (formerly 4me)
+     Supporting a windows and office 365 enviroment.
+     
+     Skills;
+     Active Directory (managing users, groups and machines)
+     SCCM (software and update deployment)
+     VoIP support
+     Azure cloud / Entra ID
+     Various legacy Unix and Linux support
+     Remote tools - RDP, RCviewer, Dameware
+     Manufacturing support for various modern and legacy systems
+     Powershell scripting for automation
+     
   - role: Senior Software Engineer
     time: 2014 - 2015
     company: Google, London
