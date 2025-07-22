@@ -50,7 +50,7 @@ experiences:
   title: Experiences
   info:
   - role: IT Service Desk Technician
-    time: 2022 - 2025
+    time: 2023 - 2025
     company: GKN Aerospace - Isle of Wight
     details: |
      Supporting GKN Aerospace for 3 years as a level 1 and 2 service desk technician for over 1000 users
@@ -60,8 +60,8 @@ experiences:
      Supporting a windows and office 365 enviroment, software support, kit provision and deployment and managing users and machines via 
      AD groups.
      Expanding and improving user experiences with powershell scripting and automation.
-     Providing support in manufacturing enviroments accross a wide range of machine tools and products such as autoclaves, lectra cutters
-     LPT ray tracer projectors.
+     Providing support in manufacturing enviroments accross a wide range of machine tools 
+     and products such as autoclaves, lectra cutters, LPT ray tracer projectors.
      
      Skills;
        - Active Directory (managing users, groups and machines)
@@ -74,133 +74,71 @@ experiences:
        - Powershell scripting for automation
        - Windows Server / SSH
      
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Computer Services Technician
+    time: 2022 - 2023
+    company: Ryde School with Upper Chine
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point  this is a test
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      In this role, I provided day-to-day technical support across the school, 
+      assisting staff and students with hardware and software issues, device setup, and user account management. 
+      I maintained classroom technology, managed printers and peripheral devices, and supported the school’s networked systems. 
+      The position required strong communication skills, independent problem-solving, 
+      and the ability to manage multiple support requests in a busy educational environment.
 
+      Skills;
+        - Troubleshooting Windows and macOS systems
+        - Device imaging, setup, and configuration
+        - User account management (Active Directory)
+        - Network connectivity and printer support
+        - Classroom AV equipment maintenance and setup
+        - Ticket-based support and issue tracking
+        - Clear communication with technical and non-technical users
+        - Prioritising and managing multiple support requests
+
+  - role: Information Technology Apprentice Technician
+    time: 2019 - 2021
+    company: Cowes Enterprise College
+    details: |
+      As an Apprentice IT Service Technician, I delivered comprehensive technical support to 
+      both staff and students within a busy school environment. My responsibilities included troubleshooting 
+      a wide range of hardware and software issues across Windows and macOS platforms, 
+      resolving network connectivity problems, and maintaining printers and peripheral devices. 
+      I was actively involved in device imaging, configuration, and deployment to ensure smooth integration of new equipment. 
+      Additionally, I managed user accounts through Active Directory, maintained asset inventories, 
+      and supported routine system maintenance tasks. 
+      This role required strong organizational skills to prioritize and manage multiple concurrent support requests efficiently, 
+      as well as the ability to communicate technical information clearly to users with varying levels of IT knowledge. 
+      The apprenticeship provided me with a solid foundation in IT service delivery and 
+      customer-focused problem solving in an educational setting.
+
+      Skills;
+        - Troubleshooting Windows and macOS hardware and software issues
+        - Device imaging, setup, and deployment using standard tools
+        - Active Directory user account creation, management, and troubleshooting
+        - Network troubleshooting including Wi-Fi and wired connectivity
+        - Printer and peripheral device support and maintenance
+        - Asset management and inventory control
+        - Clear and effective communication with users at all technical levels
+        - Prioritizing and managing multiple support tickets under time constraints
+        
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
+  - name: IT infrastructure technician apprenticeship level 3
     start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+    end: 2021
+    organization: Cowes Enterprise College
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Studied a level 3 infrastructure technician apprenticeship during my time at Cowes Enterprise College as a part of my role
+      as an IT technician.
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Below are some of my own projects I have worked on throughout my IT career
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+  - title: Powershell Servicedesk tools
+    link: https://github.com/Budder-99/Powershell-Tools
+    tagline: "A collection of Gui and CLI Powershell based tools I have developed to make my work life easier working in IT. Compiled using WinPS2exe into EXE's with GUI based frontend so it can be used by anyone."
 
 recommendations:
   title: Recommendations
@@ -210,13 +148,13 @@ recommendations:
     phone: 012 345 6789
     role: General Director at example.com
     recommendation: |
-      Alan Doe is a super employee!
+      Owen Budd is a super employee!
   - person: Lara Henderson
     email: larah@example.com
     phone: 012 345 6789
     role: General Director at example.com
     recommendation: |
-      I would like to work with Alan Doe again!
+      I would like to work with Owen Budd again!
 
       He is a great employee!
 
@@ -224,23 +162,23 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Powershell
     level: 98%
 
-  - name: Javascript & jQuery
-    level: 98%
+  - name: Javascript & HTML
+    level: 50%
 
-  - name: Angular
-    level: 98%
+  - name: Linux
+    level: 75%
 
-  - name: HTML5 & CSS
+  - name: SSH & cmd line
     level: 95%
 
-  - name: Ruby on Rails
-    level: 85%
+  - name: Photo and Video Editing
+    level: 95%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: 3D modelling
+    level:95%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
