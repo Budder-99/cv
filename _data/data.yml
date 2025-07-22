@@ -19,22 +19,35 @@ sidebar:
   website: http://budder.uk # Include the full website URL, including "http://" or "https://".
   github: Budder-99
 
+  Experience:
+    title: Experienced in
+    info:
+    - item: Windows 10/11 and server 2022
+
+    - item: Linux: Opensuse, Arch, Debian
+
+    - item: Powershell
+
+    - item: Networking
+
+    
+  
+  
   interests:
     title: Interests
     info:
-    - item: Climbing
-      link:
-
-
     - item: Technology
-      link:
+      link: http://budder.uk
+
+
+    - item: Guitar
+      link: https://soundcloud.com/budderrrr
 
 
     - item: Photography
-      link:
+      link: https://www.instagram.com/budder.photography/
 
-    - item: Guitar
-
+    - item: Climbing
 
 career-profile:
   title: About me
