@@ -23,16 +23,20 @@ sidebar:
     title: Experienced in
     info:
     - item: Windows 10/11 and server 2022
+      link:
 
+      
     - item: Linux Opensuse Arch Debian
+      link:
 
+      
     - item: Powershell
-
+      link:
+      
+      
     - item: Networking
-
-    
-  
-  
+      link:
+      
   interests:
     title: Interests
     info:
