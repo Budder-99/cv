@@ -18,24 +18,6 @@ sidebar:
   timezone: Europe/UnitedKingdom # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   website: http://budder.uk # Include the full website URL, including "http://" or "https://".
   github: Budder-99
-
-  Experience:
-    title: Experienced in
-    info:
-    - item: Windows 10/11 and server 2022
-      link:
-
-      
-    - item: Linux Opensuse Arch Debian
-      link:
-
-      
-    - item: Powershell
-      link:
-      
-      
-    - item: Networking
-      link:
       
   interests:
     title: Interests
@@ -56,7 +38,8 @@ sidebar:
 career-profile:
   title: About me
   summary: |
-    A hands-on and adaptable IT enthusiast with a diverse background spanning technical support, manufacturing, and self-hosted infrastructure. 
+    A hands-on and adaptable IT enthusiast with a diverse background spanning technical support in office and manufacturing enviroments,
+    as well as self-hosted infrastructure. 
     I bring experience from roles at GKN Aerospace and other varied positions, 
     complemented by a strong personal passion for technology and problem-solving. 
     Through my self-managed homelab, I’ve gained practical skills in server management, networking, and automation, 
@@ -70,21 +53,26 @@ experiences:
     time: 2022 - 2025
     company: GKN Aerospace - Isle of Wight
     details: |
-     Supporting GKN Aerospace as a level 1 and 2 service desk for over 1000 users
-     throughout the UK, adhearing to strict SLA's to maintain customer response times
+     Supporting GKN Aerospace for 3 years as a level 1 and 2 service desk technician for over 1000 users
+     throughout the UK and more abroad via remote support, adhearing to strict SLA's to maintain customer response times
      and find prompt resolutions. 
-     Managing a helpdesk ticketing system with Xurrent (formerly 4me)
-     Supporting a windows and office 365 enviroment.
+     Managing a helpdesk ticketing system with Xurrent (formerly 4me) with a combined ticket queue at peaks of 100 tickets.
+     Supporting a windows and office 365 enviroment, software support, kit provision and deployment and managing users and machines via 
+     AD groups.
+     Expanding and improving user experiences with powershell scripting and automation.
+     Providing support in manufacturing enviroments accross a wide range of machine tools and products such as autoclaves, lectra cutters
+     LPT ray tracer projectors.
      
      Skills;
        - Active Directory (managing users, groups and machines)
        - SCCM (software and update deployment)
        - VoIP support
        - Azure cloud / Entra ID
-       - Various legacy Unix and Linux support
+       - Various legacy Unix and Linux support (IBM AIX)
        - Remote tools - RDP, RCviewer, Dameware
        - Manufacturing support for various modern and legacy systems
        - Powershell scripting for automation
+       - Windows Server / SSH
      
   - role: Senior Software Engineer
     time: 2014 - 2015
